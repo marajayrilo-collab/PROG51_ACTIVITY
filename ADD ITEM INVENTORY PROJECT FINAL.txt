@@ -1,0 +1,30 @@
+#include <iostream>
+using namespace std;
+int main() {
+    // Write C++ code here
+int choice;
+    int inventory_system;
+    double name_item,quantity,price;
+cout<<"********INVENTORY SYSTEM********\n";
+    cout<<"1. Add item\n";
+
+    cout<<"Your choice\n";
+    cin>>choice;
+
+    switch (choice){
+        case 1:
+        string item_name;
+        int quantity,price;
+        cout<<"enter item name: ";
+        cin>>item_name;
+        cout<<"enter quantity: ";
+        cin>>quantity;
+        cout<<"enter price: ₱";
+        cin>>price;
+        cout<<"item added";
+        break;
+        
+    }
+    
+    return 0;
+}
