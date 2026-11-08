@@ -11,7 +11,7 @@ int choice;
 
     do {
 
-         cout << "\n===== INVENTORY MENU =====\n";
+         cout << "\n******INVENTORY MENU******\n";
         cout << "1. Add Item\n";
         cout << "2. View All Items\n";
         cout << "3. inventory report\n";
