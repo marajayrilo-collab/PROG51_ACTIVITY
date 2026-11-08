@@ -23,7 +23,7 @@ int choice;
 
         switch (choice) {
 
-          case 4: {
+          case 5: {
                 cout << "Exiting Inventory System...";
                 break;
             }
