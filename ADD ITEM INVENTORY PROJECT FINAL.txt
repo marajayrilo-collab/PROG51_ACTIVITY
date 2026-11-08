@@ -11,13 +11,12 @@ int choice;
 
     do {
 
-        cout << "\n===== INVENTORY MENU =====\n";
+         cout << "\n===== INVENTORY MENU =====\n";
         cout << "1. Add Item\n";
         cout << "2. View All Items\n";
-        cout << "3. Delete Item\n";
-        cout << "4. Inventory Report\n";
+        cout << "3. inventory item\n";
+        cout << "4. delete item\n";
         cout << "5. Exit\n";
-
         cout << "your choice: \n";
         cin >> choice;
 
